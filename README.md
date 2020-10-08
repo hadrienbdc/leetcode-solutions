@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Personal HackerRank Solutions
+# Personal LeetCode Solutions
 
 LeetCode is a social platform for preparing technical interviews for companies in the IT industry where you solve coding challenges same as Codewars or HackerRank. The level of problems is between easy and hard.
 
