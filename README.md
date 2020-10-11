@@ -15,9 +15,7 @@ My profile: https://leetcode.com/hadry/
 ## Problems
 **Problems have been solved:** 1
 
-Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
-
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
-| [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5) | Easy | [py](Prime%20Streaming%20(PG-13)/solution.py) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [py](1.%20Two%20Sum/solution.py) |
 
