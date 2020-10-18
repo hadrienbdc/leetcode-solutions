@@ -13,7 +13,7 @@ Check it out at https://leetcode.com/ !
 My profile: https://leetcode.com/hadry/
 
 ## Problems
-**Problems have been solved:** 1
+**Problems have been solved:** 3
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
